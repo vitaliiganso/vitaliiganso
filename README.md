@@ -5,9 +5,9 @@
 
 ### The most important insights about me
 
-- 🔥 Passionate about creating high-quality React and React Native applications
-- 📚 Constantly learning and updating my skills
-- 🎨 I care about aesthetics and UI/UX details in the apps I develop
-- 🔬 I write clean, maintainable code
-- 🤝 Enjoy working in teams and individually
-- 🎯 Always focused on the end goal and user satisfaction
+-  Passionate about creating high-quality React and React Native applications
+-  Constantly learning and updating my skills
+-  I care about aesthetics and UI/UX details in the apps I develop
+-  I write clean, maintainable code
+-  Enjoy working in teams and individually
+-  Always focused on the end goal and user satisfaction
